@@ -968,7 +968,6 @@ html {
 /*-----------------------------------*\
   #INSTRUCTOR
 \*-----------------------------------*/
-/* 
 .instructor {
   padding: var(--py) var(--px);
 }
@@ -1070,12 +1069,11 @@ html {
   color: var(--ultramarine-blue);
   font-family: "Roboto", sans-serif;
   font-size: var(--fs-6);
-} */
+}
 
 /*-----------------------------------*\
   #TESTIMONIAL
 \*-----------------------------------*/
-/* 
 .testimonials {
   padding: var(--py) var(--px);
   background: var(--cultured);
@@ -1145,12 +1143,11 @@ html {
 .client-detail .client-title {
   color: var(--red-orange-color-wheel);
   font-size: var(--fs-6);
-} */
+}
 
 /*-----------------------------------*\
   #BLOG
 \*-----------------------------------*/
-/* 
 .blog {
   padding: var(--py) var(--px) 250px;
 }
@@ -1250,12 +1247,12 @@ html {
 
 :is(.blog-publish-date, .blog-comment) a:hover {
   color: var(--oxford-blue);
-} */
+}
 
 /*-----------------------------------*\
   #CONTACT
 \*-----------------------------------*/
-/* 
+
 .contact {
   position: relative;
 }
@@ -1293,12 +1290,11 @@ html {
 
 .contact .btn-primary {
   justify-self: center;
-} */
+}
 
 /*-----------------------------------*\
   #FOOTER
 \*-----------------------------------*/
-/* 
 footer {
   background: var(--oxford-blue);
 }
@@ -1428,4 +1424,4 @@ footer {
 
 .copyright a:hover {
   color: var(--ultramarine-blue);
-} */
+}
